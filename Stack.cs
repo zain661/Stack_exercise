@@ -1,16 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace Stack
 {
-    class Stack<T>
+    class Stack1<T>
     {
         private T[] stack;
         private int top;
         private int max;
 
-        public Stack(int size)
+        public Stack1(int size)
         {
             stack = new T[size];
             top = -1;

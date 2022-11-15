@@ -1,0 +1,5 @@
+C:\Users\EBDA3\source\repos\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+C:\Users\EBDA3\source\repos\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBDA3\source\repos\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\EBDA3\source\repos\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\EBDA3\source\repos\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
