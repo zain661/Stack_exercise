@@ -60,7 +60,24 @@ namespace Stack
             
         }
 
-         
+        public T Peak()
+        {
+            if (top == -1)
+            {
+                Console.WriteLine("Stack is empty");
+                return default(T);
+            }
+            else
+            {
+                return stack[top];
+            }
+
+        }
+
+        public void Clear()
+        {
+            top = -1;
+        }
 
     }
 }
